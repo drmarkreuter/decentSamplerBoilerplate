@@ -10,4 +10,9 @@ e) write an entire decentSampelr boilerplate with low pass filter, reverb, and c
 
 A user will still need to add/remove additional effects and edit the pitch high and low notes
 
+### Notes: 
+the directory to search is hard coded into the script - you will need to change this
+an entire decentSampler boiler plate is hardcoded into the script. If the boilerplate changes, this will need updating.
+
+
 
