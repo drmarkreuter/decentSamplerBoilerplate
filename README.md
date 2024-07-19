@@ -1,6 +1,7 @@
 # decentSamplerBoilerplate
-A python script to generate decentSamper patches from a folder of wav files
+Python scripts to generate decentSamper patches from a folder of wav files
 
+## makeDecentPitched
 This python script will
 a) generate a dictionary of pitch to MIDI note mappings
 b) read all .wav files from a directory
